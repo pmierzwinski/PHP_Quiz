@@ -1,6 +1,8 @@
 <?php
 session_start();
 
+//hi! I added this comment becouse i want to do 1 commit per day and i dont know what to change here for a moment
+
 require('UI/Manager.php');
 require_once("API/Api.php");
 
